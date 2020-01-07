@@ -1,2 +1,4 @@
+remote_theme: github/personal-website
+
 # theme: jekyll-theme-midnight
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
